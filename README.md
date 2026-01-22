@@ -18,6 +18,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -25,9 +26,9 @@
 ---
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-chavan-94b4ba333/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://chavanpranav.github.io/Portfolio-Site/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chavanvarad514@gmail.com)
+[![LinkedIn](https://img.icons8.com/ios-filled/40/0077B5/linkedin.png)](https://www.linkedin.com/in/pranav-chavan-94b4ba333/)
+[![Portfolio](https://img.icons8.com/ios-filled/40/000000/domain.png)](https://chavanpranav.github.io/Portfolio-Site/)
+[![Email](https://img.icons8.com/ios-filled/40/D14836/gmail.png)](mailto:chavanvarad514@gmail.com)
 
 ---
 

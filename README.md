@@ -17,9 +17,9 @@
 ## 👨‍💻 About Me
 
 * 👤 **Name:** Pranav Chavan
-* 🎓 **Education:** B.Tech Information Technology at VPKBIET, Baramati[cite: 1]
-* 💡 **Interests:** Full-Stack Development • Backend Engineering • Data Structures & Algorithms • Open Source • Artificial Intelligence[cite: 1]
-* 🌱 **Current Focus:** Spring Boot • System Design • Scalable Backend Systems • AI/ML Models[cite: 1]
+* 🎓 **Education:** B.Tech Information Technology at VPKBIET, Baramati
+* 💡 **Interests:** Full-Stack Development • Backend Engineering • Data Structures & Algorithms • Open Source • Artificial Intelligence
+* 🌱 **Current Focus:** Spring Boot • System Design • Scalable Backend Systems • AI/ML Models
 
 ---
 
@@ -45,7 +45,17 @@
 
 ## 🏆 Achievements
 
-* 🏅 **NPTEL Programming in Java:** Scored **96%**[cite: 1]
-* 🏅 **NPTEL Python for Data Science:** Scored **81%** (Top 5% Rank)[cite: 1]
-* 🏅 **HackerRank:** Golden Badge holder in C++[cite: 1]
-* 🏅 **C-DAC Pune:** Completed intensive Artificial Intelligence Bootcamp[cite: 1]
+* 🏅 **NPTEL Programming in Java:** Scored **96%**
+* 🏅 **NPTEL Python for Data Science:** Scored **81%** (Top 5% Rank)
+* 🏅 **HackerRank:** Golden Badge holder in C++
+* 🏅 **C-DAC Pune:** Completed intensive Artificial Intelligence Bootcamp
+
+---
+
+<div align="center">
+
+
+
+⭐ **“Code is like humor. When you have to explain it, it’s bad.”**
+
+</div>
